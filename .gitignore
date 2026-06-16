@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.cursor/
+.vscode/
+*.swp
+*.swo
+
+# Local test scripts
+qa-*.mjs
+bug-hunt-*.mjs
+*-temp.mjs
